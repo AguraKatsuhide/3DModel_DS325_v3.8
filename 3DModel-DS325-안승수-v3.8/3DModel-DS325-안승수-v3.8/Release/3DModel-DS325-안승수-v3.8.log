@@ -1,0 +1,97 @@
+﻿빌드 시작: 2014-02-06 오후 1:32:22
+     1>2 노드의 "C:\Dropbox\개발\KETI\안승수\3D Modeling\3DModel-DS325\문서\01-소스코드\3DModel-DS325-안승수-v3.8\3DModel-DS325-안승수-v3.8\3DModel-DS325-안승수-v3.8.vcxproj" 프로젝트(build 대상)입니다.
+     1>PrepareForBuild:
+         "C:\Dropbox\개발\KETI\안승수\3D Modeling\3DModel-DS325\문서\01-소스코드\3DModel-DS325-안승수-v3.8\Release\" 디렉터리를 만들고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\3DModel-DS325-안승수-v3.8.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "3d modeling.cpp" stdafx.cpp
+         3d modeling.cpp
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>C:\Dropbox\개발\KETI\opencv\build\include\opencv2/legacy/blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>C:\Dropbox\개발\KETI\opencv\build\include\opencv2/legacy/blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 'strcat' 선언을 참조하십시오.
+     1>C:\Program Files\SoftKinetic\DepthSenseSDK\include\DepthSense-public.hxx(4727): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>C:\Program Files\SoftKinetic\DepthSenseSDK\include\DepthSense-public.hxx(5263): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>C:\Program Files\SoftKinetic\DepthSenseSDK\include\DepthSense-public.hxx(5481): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>3d modeling.cpp(171): warning C4305: '초기화 중' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>3d modeling.cpp(275): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(981) : 'wcscat' 선언을 참조하십시오.
+     1>3d modeling.cpp(281): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\wchar.h(981) : 'wcscat' 선언을 참조하십시오.
+     1>3d modeling.cpp(408): warning C4244: '초기화 중' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(409): warning C4244: '초기화 중' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(430): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(447): warning C4482: 비표준 확장이 사용되었습니다. 정규화된 이름에 'DepthSense::Device::Model' 열거형을 사용했습니다.
+     1>3d modeling.cpp(447): warning C4482: 비표준 확장이 사용되었습니다. 정규화된 이름에 'DepthSense::Device::Model' 열거형을 사용했습니다.
+     1>3d modeling.cpp(456): warning C4800: 'BOOL' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+     1>3d modeling.cpp(457): warning C4482: 비표준 확장이 사용되었습니다. 정규화된 이름에 'DepthSense::Device::Model' 열거형을 사용했습니다.
+     1>3d modeling.cpp(457): warning C4482: 비표준 확장이 사용되었습니다. 정규화된 이름에 'DepthSense::Device::Model' 열거형을 사용했습니다.
+     1>3d modeling.cpp(461): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+     1>3d modeling.cpp(516): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+     1>3d modeling.cpp(698): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+     1>3d modeling.cpp(707): warning C4482: 비표준 확장이 사용되었습니다. 정규화된 이름에 'DepthSense::Device::Model' 열거형을 사용했습니다.
+     1>3d modeling.cpp(707): warning C4482: 비표준 확장이 사용되었습니다. 정규화된 이름에 'DepthSense::Device::Model' 열거형을 사용했습니다.
+     1>3d modeling.cpp(714): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+     1>3d modeling.cpp(726): warning C4800: 'BOOL' : 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+     1>3d modeling.cpp(728): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+     1>3d modeling.cpp(744): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+     1>3d modeling.cpp(757): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+     1>3d modeling.cpp(883): warning C4244: '=' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1028): warning C4244: '=' : 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1029): warning C4244: '=' : 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1030): warning C4244: '=' : 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1062): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1063): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1066): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1066): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1066): warning C4244: '인수' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1079): warning C4244: '=' : 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1080): warning C4244: '=' : 'GLfloat'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1132): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1133): warning C4244: '=' : 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1163): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1170): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1180): warning C4244: '=' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1231): warning C4244: '초기화 중' : 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1304): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1310): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>3d modeling.cpp(1342): warning C4244: '인수' : 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1348): warning C4305: '인수' : 'double'에서 'GLfloat'(으)로 잘립니다.
+     1>3d modeling.cpp(1385): warning C4101: 'hWnd' :참조되지 않은 지역 변수입니다.
+     1>3d modeling.cpp(1487): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1488): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>3d modeling.cpp(1489): warning C4244: '=' : 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         stdafx.cpp
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>c:\dropbox\개발\keti\opencv\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+     1>C:\Dropbox\개발\KETI\opencv\build\include\opencv2/legacy/blobtrack.hpp(187): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>C:\Dropbox\개발\KETI\opencv\build\include\opencv2/legacy/blobtrack.hpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 'strcat' 선언을 참조하십시오.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Dropbox\개발\KETI\안승수\3D Modeling\3DModel-DS325\문서\01-소스코드\3DModel-DS325-안승수-v3.8\Release\3DModel-DS325-안승수-v3.8.exe" /INCREMENTAL:NO /NOLOGO DepthSense.lib opencv_core245.lib opencv_highgui245.lib opencv_imgproc245.lib cameralibrary.lib ws2_32.lib setupapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\3DModel-DS325-안승수-v3.8.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dropbox\개발\KETI\안승수\3D Modeling\3DModel-DS325\문서\01-소스코드\3DModel-DS325-안승수-v3.8\Release\3DModel-DS325-안승수-v3.8.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Dropbox\개발\KETI\안승수\3D Modeling\3DModel-DS325\문서\01-소스코드\3DModel-DS325-안승수-v3.8\Release\3DModel-DS325-안승수-v3.8.lib" /MACHINE:X86 "Release\3d modeling.obj"
+         Release\stdafx.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         3DModel-DS325-안승수-v3.8.vcxproj -> C:\Dropbox\개발\KETI\안승수\3D Modeling\3DModel-DS325\문서\01-소스코드\3DModel-DS325-안승수-v3.8\Release\3DModel-DS325-안승수-v3.8.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Dropbox\개발\KETI\안승수\3D Modeling\3DModel-DS325\문서\01-소스코드\3DModel-DS325-안승수-v3.8\Release\3DModel-DS325-안승수-v3.8.exe;#1" /manifest "Release\3DModel-DS325-안승수-v3.8.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         "Release\3DModel-DS325-안승수-v3.8.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\3DModel-DS325-안승수-v3.8.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Dropbox\개발\KETI\안승수\3D Modeling\3DModel-DS325\문서\01-소스코드\3DModel-DS325-안승수-v3.8\3DModel-DS325-안승수-v3.8\3DModel-DS325-안승수-v3.8.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.16
